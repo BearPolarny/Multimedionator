@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ja.aplikacjafinal.ImageActivity">
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="100"
+        android:title="@string/secret_option"
+        app:showAsAction="never" />
+
+</menu>
